@@ -31,6 +31,13 @@ Support
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
+Screens
+-------
+
+ <img src="https://github.com/mharoon/go-ubiquitous/blob/master/screenshots/preview_digital_circular.png">
+
+ <img src="https://github.com/mharoon/go-ubiquitous/blob/master/screenshots/preview_digital.png">
+
 License
 -------
 Copyright 2015 The Android Open Source Project, Inc.
